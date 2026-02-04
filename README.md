@@ -15,3 +15,4 @@ I examined salary data to identify which roles are paid the most within each dep
 ## Tools & Skills
 Tools: SQL (MySQL)
 Skills: Data aggregation, window functions, salary benchmarking, statistical analysis, business insights
+
