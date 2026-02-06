@@ -1,0 +1,321 @@
+company,employee_id,department,job_title,job_level,location,base_salary
+Acorn Health Systems,E0001,Customer Support,Support Manager,Manager,"San Francisco, CA",136500
+Acorn Health Systems,E0002,Operations,Operations Manager,Manager,"Seattle, WA",153500
+Acorn Health Systems,E0003,Marketing,Marketing Specialist,Junior,Remote (US),64000
+Acorn Health Systems,E0004,Sales,Account Executive,Mid,"Atlanta, GA",112000
+Acorn Health Systems,E0005,Engineering,Engineering Manager,Manager,"San Francisco, CA",260000
+Acorn Health Systems,E0006,Engineering,Software Engineer,Mid,"Seattle, WA",161000
+Acorn Health Systems,E0007,Engineering,Software Engineer,Mid,Remote (US),118500
+Acorn Health Systems,E0008,HR,HR Manager,Manager,"Seattle, WA",135500
+Acorn Health Systems,E0009,Product,Product Designer,Senior,"Austin, TX",165000
+Acorn Health Systems,E0010,Marketing,Marketing Specialist,Junior,Remote (US),67000
+Acorn Health Systems,E0011,Engineering,Engineering Manager,Senior Manager,"Austin, TX",242500
+Acorn Health Systems,E0012,Operations,Operations Analyst,Junior,"Austin, TX",79500
+Acorn Health Systems,E0013,Finance,Financial Analyst,Junior,"Chicago, IL",74500
+Acorn Health Systems,E0014,Engineering,Software Engineer,Senior,"Austin, TX",168000
+Acorn Health Systems,E0015,Engineering,QA Engineer,Junior,Remote (US),75000
+Acorn Health Systems,E0016,Engineering,Engineering Manager,Manager,"Chicago, IL",191000
+Acorn Health Systems,E0017,Customer Support,Support Specialist,Senior,"Austin, TX",87500
+Acorn Health Systems,E0018,Sales,Sales Manager,Senior Manager,"Atlanta, GA",146000
+Acorn Health Systems,E0019,Customer Support,Support Specialist,Senior,"San Francisco, CA",119000
+Acorn Health Systems,E0020,Engineering,Software Engineer,Mid,"Austin, TX",119500
+Acorn Health Systems,E0021,Product,Product Manager,Associate,"San Francisco, CA",112000
+Acorn Health Systems,E0022,Engineering,Engineering Manager,Senior Manager,"Chicago, IL",241500
+Acorn Health Systems,E0023,Engineering,QA Engineer,Junior,"Austin, TX",113000
+Acorn Health Systems,E0024,Customer Support,Support Lead,Lead,Remote (US),82500
+Acorn Health Systems,E0025,Customer Support,Support Lead,Lead,"Atlanta, GA",96500
+Acorn Health Systems,E0026,Finance,Finance Manager,Manager,"Atlanta, GA",135000
+Acorn Health Systems,E0027,Engineering,Data Engineer,Junior,"Chicago, IL",102000
+Acorn Health Systems,E0028,Sales,Sales Development Rep,Mid,Remote (US),91500
+Acorn Health Systems,E0029,Sales,Sales Manager,Manager,Remote (US),151000
+Acorn Health Systems,E0030,Engineering,QA Engineer,Junior,"Seattle, WA",106000
+Acorn Health Systems,E0031,Product,Product Manager,Mid,"Chicago, IL",129000
+Acorn Health Systems,E0032,Engineering,QA Engineer,Junior,"Seattle, WA",108000
+Acorn Health Systems,E0033,Engineering,QA Engineer,Junior,Remote (US),102000
+Acorn Health Systems,E0034,Operations,Program Manager,Senior,Remote (US),131500
+Acorn Health Systems,E0035,Operations,Program Manager,Mid,"Austin, TX",112500
+Acorn Health Systems,E0036,Finance,Financial Analyst,Junior,Remote (US),71000
+Acorn Health Systems,E0037,Customer Support,Support Manager,Manager,Remote (US),118500
+Acorn Health Systems,E0038,Engineering,Engineering Manager,Senior Manager,"Austin, TX",198000
+Acorn Health Systems,E0039,Product,Product Manager,Associate,"Atlanta, GA",92000
+Acorn Health Systems,E0040,Customer Support,Support Lead,Lead,"San Francisco, CA",115000
+Acorn Health Systems,E0041,Engineering,Software Engineer,Mid,Remote (US),138000
+Acorn Health Systems,E0042,Sales,Account Executive,Senior,"Atlanta, GA",124000
+Acorn Health Systems,E0043,Engineering,Software Engineer,Staff,"Chicago, IL",196500
+Acorn Health Systems,E0044,HR,HR Manager,Manager,"Atlanta, GA",117000
+Acorn Health Systems,E0045,Engineering,QA Engineer,Senior,"San Francisco, CA",189500
+Acorn Health Systems,E0046,Product,UX Researcher,Senior,"San Francisco, CA",189000
+Acorn Health Systems,E0047,Customer Support,Support Manager,Manager,Remote (US),104000
+Acorn Health Systems,E0048,Sales,Sales Development Rep,Junior,"Austin, TX",62500
+Acorn Health Systems,E0049,Sales,Sales Development Rep,Junior,"Chicago, IL",72000
+Acorn Health Systems,E0050,Engineering,Software Engineer,Senior,"Atlanta, GA",164500
+Acorn Health Systems,E0051,Operations,Operations Analyst,Senior,"San Francisco, CA",157000
+Acorn Health Systems,E0052,Marketing,Marketing Manager,Senior Manager,Remote (US),154500
+Acorn Health Systems,E0053,Operations,Operations Manager,Manager,"Seattle, WA",138500
+Acorn Health Systems,E0054,HR,HR Business Partner,Mid,"Atlanta, GA",93000
+Acorn Health Systems,E0055,Sales,Sales Manager,Manager,"Atlanta, GA",149500
+Acorn Health Systems,E0056,HR,HR Business Partner,Senior,"San Francisco, CA",158500
+Acorn Health Systems,E0057,Engineering,Software Engineer,Senior,"Austin, TX",168500
+Acorn Health Systems,E0058,Engineering,Data Engineer,Junior,"Seattle, WA",120500
+Acorn Health Systems,E0059,Engineering,Software Engineer,Junior,Remote (US),111500
+Acorn Health Systems,E0060,Customer Support,Support Lead,Lead,"Atlanta, GA",84000
+Acorn Health Systems,E0061,Customer Support,Support Specialist,Junior,Remote (US),56000
+Acorn Health Systems,E0062,Engineering,Engineering Manager,Manager,"Austin, TX",201000
+Acorn Health Systems,E0063,Finance,Finance Manager,Manager,"Seattle, WA",153000
+Acorn Health Systems,E0064,Customer Support,Support Manager,Manager,Remote (US),110000
+Acorn Health Systems,E0065,Engineering,QA Engineer,Mid,Remote (US),144000
+Acorn Health Systems,E0066,Sales,Sales Manager,Senior Manager,"Chicago, IL",185000
+Acorn Health Systems,E0067,Engineering,Engineering Manager,Manager,"Seattle, WA",248000
+Acorn Health Systems,E0068,Finance,Financial Analyst,Junior,"Austin, TX",79000
+Acorn Health Systems,E0069,Engineering,Software Engineer,Mid,"Atlanta, GA",135000
+Acorn Health Systems,E0070,Operations,Operations Analyst,Junior,"San Francisco, CA",86500
+Acorn Health Systems,E0071,Marketing,Marketing Manager,Manager,"Seattle, WA",144500
+Acorn Health Systems,E0072,Engineering,Software Engineer,Junior,"Austin, TX",100000
+Acorn Health Systems,E0073,Engineering,Software Engineer,Mid,"Austin, TX",136000
+Acorn Health Systems,E0074,Finance,Finance Manager,Manager,"Seattle, WA",163500
+Acorn Health Systems,E0075,Marketing,Marketing Manager,Manager,Remote (US),120000
+Acorn Health Systems,E0076,Marketing,Marketing Manager,Senior Manager,"Seattle, WA",189000
+Acorn Health Systems,E0077,Marketing,Content Strategist,Senior,"Seattle, WA",120000
+Acorn Health Systems,E0078,Engineering,Software Engineer,Junior,Remote (US),91500
+Acorn Health Systems,E0079,Customer Support,Support Lead,Lead,"Chicago, IL",103500
+Acorn Health Systems,E0080,Engineering,Engineering Manager,Senior Manager,Remote (US),249000
+Acorn Health Systems,E0081,HR,HR Generalist,Senior,Remote (US),124500
+Acorn Health Systems,E0082,Product,UX Researcher,Junior,"San Francisco, CA",111500
+Acorn Health Systems,E0083,Customer Support,Support Lead,Lead,"San Francisco, CA",109500
+Acorn Health Systems,E0084,Engineering,Data Engineer,Junior,"Seattle, WA",110500
+Acorn Health Systems,E0085,Customer Support,Support Manager,Manager,"Seattle, WA",112000
+Acorn Health Systems,E0086,Customer Support,Support Lead,Lead,"Austin, TX",88000
+Acorn Health Systems,E0087,Marketing,Content Strategist,Mid,"San Francisco, CA",121000
+Acorn Health Systems,E0088,Product,Product Designer,Senior,"San Francisco, CA",175000
+Acorn Health Systems,E0089,HR,HR Generalist,Senior,"Atlanta, GA",105500
+Acorn Health Systems,E0090,Sales,Account Executive,Mid,"Seattle, WA",118000
+Acorn Health Systems,E0091,Engineering,Data Engineer,Mid,"Chicago, IL",152000
+Acorn Health Systems,E0092,Marketing,Content Strategist,Mid,"Chicago, IL",92500
+Acorn Health Systems,E0093,Marketing,Marketing Specialist,Junior,"Chicago, IL",68000
+Acorn Health Systems,E0094,Sales,Account Executive,Senior,"Austin, TX",140000
+Acorn Health Systems,E0095,Marketing,Content Strategist,Senior,"Chicago, IL",123500
+Acorn Health Systems,E0096,Sales,Sales Manager,Senior Manager,"Seattle, WA",180000
+Acorn Health Systems,E0097,Sales,Account Executive,Senior,"Seattle, WA",145500
+Acorn Health Systems,E0098,Customer Support,Support Specialist,Senior,Remote (US),90500
+Acorn Health Systems,E0099,Engineering,Software Engineer,Senior,"San Francisco, CA",176000
+Acorn Health Systems,E0100,Engineering,Software Engineer,Staff,"Atlanta, GA",165000
+Acorn Health Systems,E0101,Engineering,Data Engineer,Junior,"Atlanta, GA",97000
+Acorn Health Systems,E0102,Product,Product Manager,Associate,"San Francisco, CA",114000
+Acorn Health Systems,E0103,Customer Support,Support Manager,Manager,Remote (US),104000
+Acorn Health Systems,E0104,Sales,Account Executive,Senior,"San Francisco, CA",181500
+Acorn Health Systems,E0105,HR,HR Manager,Manager,"Atlanta, GA",130000
+Acorn Health Systems,E0106,Engineering,Software Engineer,Junior,"Chicago, IL",102000
+Acorn Health Systems,E0107,Customer Support,Support Manager,Manager,"Austin, TX",101000
+Acorn Health Systems,E0108,Marketing,Marketing Specialist,Senior,Remote (US),109000
+Acorn Health Systems,E0109,Engineering,QA Engineer,Junior,"Austin, TX",101000
+Acorn Health Systems,E0110,Engineering,Engineering Manager,Manager,Remote (US),199500
+Acorn Health Systems,E0111,Engineering,QA Engineer,Mid,"Austin, TX",138500
+Acorn Health Systems,E0112,Engineering,Software Engineer,Junior,"Chicago, IL",96500
+Acorn Health Systems,E0113,HR,HR Manager,Manager,"San Francisco, CA",157500
+Acorn Health Systems,E0114,Finance,Finance Manager,Manager,"Atlanta, GA",151000
+Acorn Health Systems,E0115,Product,Product Designer,Junior,"Austin, TX",89000
+Acorn Health Systems,E0116,HR,HR Generalist,Junior,"Austin, TX",73500
+Acorn Health Systems,E0117,Finance,Accountant,Junior,"Chicago, IL",85000
+Acorn Health Systems,E0118,Engineering,QA Engineer,Senior,Remote (US),163500
+Acorn Health Systems,E0119,HR,HR Manager,Manager,Remote (US),130500
+Acorn Health Systems,E0120,Sales,Sales Manager,Senior Manager,Remote (US),170500
+Acorn Health Systems,E0121,Finance,Financial Analyst,Junior,"Austin, TX",79500
+Acorn Health Systems,E0122,HR,HR Generalist,Junior,Remote (US),67000
+Acorn Health Systems,E0123,Customer Support,Support Manager,Manager,"Austin, TX",101500
+Acorn Health Systems,E0124,Engineering,QA Engineer,Senior,"Seattle, WA",193000
+Acorn Health Systems,E0125,Engineering,QA Engineer,Junior,Remote (US),113000
+Acorn Health Systems,E0126,Customer Support,Support Manager,Manager,"Atlanta, GA",103500
+Acorn Health Systems,E0127,Finance,Accountant,Mid,"San Francisco, CA",145000
+Acorn Health Systems,E0128,HR,HR Generalist,Senior,"Chicago, IL",113500
+Acorn Health Systems,E0129,Engineering,QA Engineer,Junior,"San Francisco, CA",128000
+Acorn Health Systems,E0130,Sales,Sales Development Rep,Junior,Remote (US),67000
+Acorn Health Systems,E0131,Customer Support,Support Lead,Lead,Remote (US),109000
+Acorn Health Systems,E0132,Engineering,Engineering Manager,Senior Manager,"Atlanta, GA",208000
+Acorn Health Systems,E0133,Engineering,Software Engineer,Junior,"San Francisco, CA",111500
+Acorn Health Systems,E0134,Customer Support,Support Manager,Manager,"Atlanta, GA",91500
+Acorn Health Systems,E0135,Operations,Operations Analyst,Mid,"Atlanta, GA",79000
+Acorn Health Systems,E0136,Customer Support,Support Manager,Manager,"Chicago, IL",99000
+Acorn Health Systems,E0137,Sales,Account Executive,Mid,"Austin, TX",103500
+Acorn Health Systems,E0138,Marketing,Content Strategist,Mid,"Austin, TX",96000
+Acorn Health Systems,E0139,Customer Support,Support Specialist,Senior,"Seattle, WA",100500
+Acorn Health Systems,E0140,Operations,Operations Manager,Manager,"Austin, TX",155500
+Acorn Health Systems,E0141,Operations,Operations Manager,Manager,"Atlanta, GA",138000
+Acorn Health Systems,E0142,Engineering,Data Engineer,Junior,"Seattle, WA",113500
+Acorn Health Systems,E0143,Sales,Account Executive,Senior,"San Francisco, CA",150500
+Acorn Health Systems,E0144,Customer Support,Support Specialist,Senior,"Austin, TX",92500
+Acorn Health Systems,E0145,Engineering,Engineering Manager,Manager,"Austin, TX",182500
+Acorn Health Systems,E0146,Engineering,Data Engineer,Senior,"San Francisco, CA",244500
+Acorn Health Systems,E0147,Product,Product Designer,Junior,"Chicago, IL",100500
+Acorn Health Systems,E0148,Sales,Account Executive,Mid,"Chicago, IL",108000
+Acorn Health Systems,E0149,Engineering,QA Engineer,Mid,"Seattle, WA",128000
+Acorn Health Systems,E0150,Engineering,Data Engineer,Junior,Remote (US),120000
+Acorn Health Systems,E0151,HR,Recruiter,Mid,"Austin, TX",94000
+Acorn Health Systems,E0152,Engineering,QA Engineer,Junior,"Austin, TX",111500
+Acorn Health Systems,E0153,Engineering,QA Engineer,Senior,"Atlanta, GA",140000
+Acorn Health Systems,E0154,Sales,Sales Development Rep,Mid,"San Francisco, CA",99000
+Acorn Health Systems,E0155,Operations,Operations Analyst,Mid,"Seattle, WA",110000
+Acorn Health Systems,E0156,Engineering,QA Engineer,Junior,"San Francisco, CA",120000
+Acorn Health Systems,E0157,Product,UX Researcher,Mid,"Austin, TX",115500
+Acorn Health Systems,E0158,Marketing,Marketing Manager,Senior Manager,"Chicago, IL",157500
+Acorn Health Systems,E0159,Engineering,Software Engineer,Staff,"Atlanta, GA",170000
+Acorn Health Systems,E0160,Marketing,Marketing Specialist,Mid,"San Francisco, CA",111000
+Acorn Health Systems,E0161,Customer Support,Support Manager,Manager,"San Francisco, CA",120500
+Acorn Health Systems,E0162,Product,UX Researcher,Senior,Remote (US),156000
+Acorn Health Systems,E0163,Product,UX Researcher,Senior,Remote (US),158500
+Acorn Health Systems,E0164,Sales,Sales Manager,Manager,"Austin, TX",135000
+Acorn Health Systems,E0165,Engineering,Engineering Manager,Manager,Remote (US),179000
+Acorn Health Systems,E0166,Finance,Accountant,Senior,"Austin, TX",144500
+Acorn Health Systems,E0167,Customer Support,Support Manager,Manager,Remote (US),104000
+Acorn Health Systems,E0168,Engineering,QA Engineer,Senior,"Austin, TX",158500
+Acorn Health Systems,E0169,Engineering,Engineering Manager,Senior Manager,"Chicago, IL",260000
+Acorn Health Systems,E0170,Sales,Sales Manager,Senior Manager,"Atlanta, GA",163500
+Acorn Health Systems,E0171,Product,Product Manager,Associate,"Chicago, IL",109500
+Acorn Health Systems,E0172,Engineering,Engineering Manager,Manager,"Atlanta, GA",195000
+Acorn Health Systems,E0173,Sales,Sales Manager,Senior Manager,"Chicago, IL",202500
+Acorn Health Systems,E0174,Engineering,Software Engineer,Senior,"Austin, TX",192500
+Acorn Health Systems,E0175,Product,Product Manager,Mid,"Atlanta, GA",117500
+Acorn Health Systems,E0176,Engineering,QA Engineer,Mid,"Chicago, IL",148500
+Acorn Health Systems,E0177,Product,Product Designer,Senior,"Seattle, WA",173500
+Acorn Health Systems,E0178,Customer Support,Support Manager,Manager,Remote (US),112500
+Acorn Health Systems,E0179,Operations,Operations Analyst,Senior,"San Francisco, CA",136000
+Acorn Health Systems,E0180,Engineering,QA Engineer,Senior,Remote (US),178000
+Acorn Health Systems,E0181,Customer Support,Support Manager,Manager,"San Francisco, CA",129500
+Acorn Health Systems,E0182,Engineering,Data Engineer,Senior,"Austin, TX",155000
+Acorn Health Systems,E0183,HR,Recruiter,Junior,"Seattle, WA",71000
+Acorn Health Systems,E0184,HR,HR Generalist,Junior,"Seattle, WA",65500
+Acorn Health Systems,E0185,Engineering,Engineering Manager,Manager,"Chicago, IL",203500
+Acorn Health Systems,E0186,Product,Product Designer,Senior,"Atlanta, GA",150500
+Acorn Health Systems,E0187,Finance,Financial Analyst,Senior,Remote (US),147000
+Acorn Health Systems,E0188,Sales,Sales Development Rep,Mid,"Chicago, IL",90500
+Acorn Health Systems,E0189,Sales,Account Executive,Mid,Remote (US),124500
+Acorn Health Systems,E0190,Engineering,Software Engineer,Junior,"Chicago, IL",92000
+Acorn Health Systems,E0191,Engineering,Data Engineer,Junior,Remote (US),93500
+Acorn Health Systems,E0192,HR,HR Manager,Manager,"San Francisco, CA",150500
+Acorn Health Systems,E0193,HR,HR Manager,Manager,"San Francisco, CA",156000
+Acorn Health Systems,E0194,Product,Product Designer,Junior,"Chicago, IL",91500
+Acorn Health Systems,E0195,Customer Support,Support Manager,Manager,"Chicago, IL",86000
+Acorn Health Systems,E0196,Customer Support,Support Manager,Manager,"Atlanta, GA",95500
+Acorn Health Systems,E0197,Marketing,Content Strategist,Mid,Remote (US),85000
+Acorn Health Systems,E0198,HR,Compensation Analyst,Senior,"Austin, TX",129000
+Acorn Health Systems,E0199,HR,Recruiter,Senior,"Austin, TX",122000
+Acorn Health Systems,E0200,Marketing,Marketing Manager,Senior Manager,Remote (US),136000
+Acorn Health Systems,E0201,Product,Product Manager,Mid,"Chicago, IL",123000
+Acorn Health Systems,E0202,Engineering,Software Engineer,Senior,"Seattle, WA",170000
+Acorn Health Systems,E0203,Engineering,QA Engineer,Mid,"Austin, TX",134500
+Acorn Health Systems,E0204,HR,HR Manager,Manager,"Seattle, WA",152000
+Acorn Health Systems,E0205,Product,Product Manager,Associate,"Chicago, IL",92500
+Acorn Health Systems,E0206,Engineering,Data Engineer,Senior,"Seattle, WA",206500
+Acorn Health Systems,E0207,Engineering,Software Engineer,Staff,"Chicago, IL",191000
+Acorn Health Systems,E0208,Product,Product Designer,Senior,"Chicago, IL",143500
+Acorn Health Systems,E0209,Engineering,Engineering Manager,Manager,"Seattle, WA",222500
+Acorn Health Systems,E0210,Engineering,Engineering Manager,Senior Manager,"Atlanta, GA",204000
+Acorn Health Systems,E0211,Sales,Sales Manager,Manager,"Atlanta, GA",135000
+Acorn Health Systems,E0212,Product,Product Designer,Mid,"San Francisco, CA",128000
+Acorn Health Systems,E0213,Product,Product Designer,Mid,"Chicago, IL",141500
+Acorn Health Systems,E0214,Engineering,Engineering Manager,Manager,"Chicago, IL",209000
+Acorn Health Systems,E0215,Marketing,Marketing Specialist,Mid,"Chicago, IL",91500
+Acorn Health Systems,E0216,Engineering,Engineering Manager,Manager,"Chicago, IL",212000
+Acorn Health Systems,E0217,Customer Support,Support Lead,Lead,Remote (US),92000
+Acorn Health Systems,E0218,Marketing,Marketing Specialist,Mid,"Seattle, WA",102500
+Acorn Health Systems,E0219,Product,UX Researcher,Senior,"San Francisco, CA",185500
+Acorn Health Systems,E0220,Finance,Accountant,Senior,"Atlanta, GA",132000
+Acorn Health Systems,E0221,Product,UX Researcher,Junior,"San Francisco, CA",101500
+Acorn Health Systems,E0222,Sales,Sales Manager,Senior Manager,"Seattle, WA",179000
+Acorn Health Systems,E0223,Engineering,Engineering Manager,Manager,"San Francisco, CA",235500
+Acorn Health Systems,E0224,Customer Support,Support Lead,Lead,"Austin, TX",76000
+Acorn Health Systems,E0225,Engineering,Data Engineer,Mid,"Austin, TX",127000
+Acorn Health Systems,E0226,Engineering,QA Engineer,Mid,"Austin, TX",150000
+Acorn Health Systems,E0227,Operations,Program Manager,Senior,"San Francisco, CA",167000
+Acorn Health Systems,E0228,Customer Support,Support Lead,Lead,Remote (US),91000
+Acorn Health Systems,E0229,HR,HR Manager,Manager,"Austin, TX",134000
+Acorn Health Systems,E0230,Product,Product Manager,Senior,"San Francisco, CA",190500
+Acorn Health Systems,E0231,Finance,Finance Manager,Manager,"San Francisco, CA",208500
+Acorn Health Systems,E0232,Sales,Account Executive,Mid,"San Francisco, CA",141500
+Acorn Health Systems,E0233,Sales,Sales Manager,Manager,"Seattle, WA",161500
+Acorn Health Systems,E0234,Sales,Account Executive,Senior,Remote (US),127000
+Acorn Health Systems,E0235,Engineering,Software Engineer,Mid,"Chicago, IL",120000
+Acorn Health Systems,E0236,Marketing,Marketing Manager,Senior Manager,"Austin, TX",149500
+Acorn Health Systems,E0237,Engineering,Data Engineer,Senior,"Atlanta, GA",161000
+Acorn Health Systems,E0238,Engineering,Software Engineer,Mid,"Austin, TX",119500
+Acorn Health Systems,E0239,Product,Product Manager,Senior,"San Francisco, CA",176000
+Acorn Health Systems,E0240,Engineering,QA Engineer,Senior,Remote (US),154000
+Acorn Health Systems,E0241,Operations,Program Manager,Senior,Remote (US),142000
+Acorn Health Systems,E0242,Operations,Operations Analyst,Junior,"Atlanta, GA",76500
+Acorn Health Systems,E0243,HR,Recruiter,Junior,Remote (US),71000
+Acorn Health Systems,E0244,Customer Support,Support Lead,Lead,"Atlanta, GA",98500
+Acorn Health Systems,E0245,Engineering,Software Engineer,Senior,"Atlanta, GA",161500
+Acorn Health Systems,E0246,HR,Compensation Analyst,Senior,"San Francisco, CA",134500
+Acorn Health Systems,E0247,Customer Support,Support Manager,Manager,"San Francisco, CA",134000
+Acorn Health Systems,E0248,Operations,Program Manager,Senior,"San Francisco, CA",154000
+Acorn Health Systems,E0249,Operations,Program Manager,Senior,Remote (US),114500
+Acorn Health Systems,E0250,HR,Compensation Analyst,Mid,"Chicago, IL",98500
+Acorn Health Systems,E0251,Engineering,Data Engineer,Senior,"Atlanta, GA",159500
+Acorn Health Systems,E0252,Customer Support,Support Manager,Manager,"Atlanta, GA",85500
+Acorn Health Systems,E0253,HR,HR Manager,Manager,"Chicago, IL",140500
+Acorn Health Systems,E0254,Customer Support,Support Lead,Lead,"Austin, TX",107000
+Acorn Health Systems,E0255,Engineering,Data Engineer,Junior,"Austin, TX",96000
+Acorn Health Systems,E0256,Sales,Sales Development Rep,Junior,"Chicago, IL",70500
+Acorn Health Systems,E0257,Operations,Operations Manager,Manager,"Austin, TX",128000
+Acorn Health Systems,E0258,Product,Product Manager,Mid,"Austin, TX",121000
+Acorn Health Systems,E0259,Sales,Account Executive,Senior,"Seattle, WA",144000
+Acorn Health Systems,E0260,Engineering,QA Engineer,Mid,"Austin, TX",125500
+Acorn Health Systems,E0261,Product,Product Designer,Senior,Remote (US),150500
+Acorn Health Systems,E0262,Operations,Program Manager,Mid,"Atlanta, GA",88500
+Acorn Health Systems,E0263,Engineering,Data Engineer,Junior,"Seattle, WA",121500
+Acorn Health Systems,E0264,Sales,Sales Manager,Senior Manager,"Chicago, IL",173000
+Acorn Health Systems,E0265,HR,HR Manager,Manager,Remote (US),126000
+Acorn Health Systems,E0266,Marketing,Content Strategist,Senior,"Chicago, IL",112500
+Acorn Health Systems,E0267,Product,Product Manager,Associate,"Austin, TX",93500
+Acorn Health Systems,E0268,Marketing,Marketing Specialist,Mid,Remote (US),100500
+Acorn Health Systems,E0269,Customer Support,Support Specialist,Mid,Remote (US),74000
+Acorn Health Systems,E0270,Engineering,QA Engineer,Mid,"Atlanta, GA",118000
+Acorn Health Systems,E0271,Finance,Finance Manager,Manager,"Chicago, IL",145500
+Acorn Health Systems,E0272,Finance,Finance Manager,Manager,"Austin, TX",150500
+Acorn Health Systems,E0273,HR,Compensation Analyst,Senior,"Austin, TX",106000
+Acorn Health Systems,E0274,HR,HR Business Partner,Mid,"San Francisco, CA",126500
+Acorn Health Systems,E0275,Sales,Sales Manager,Manager,"Austin, TX",140500
+Acorn Health Systems,E0276,Sales,Account Executive,Mid,"Seattle, WA",126500
+Acorn Health Systems,E0277,Finance,Financial Analyst,Senior,"Chicago, IL",125500
+Acorn Health Systems,E0278,Product,Product Designer,Senior,"Atlanta, GA",122000
+Acorn Health Systems,E0279,Marketing,Marketing Manager,Senior Manager,"San Francisco, CA",151000
+Acorn Health Systems,E0280,Finance,Financial Analyst,Mid,"Seattle, WA",116000
+Acorn Health Systems,E0281,HR,HR Business Partner,Mid,"Austin, TX",104500
+Acorn Health Systems,E0282,Customer Support,Support Specialist,Senior,"Atlanta, GA",78500
+Acorn Health Systems,E0283,Customer Support,Support Specialist,Mid,"San Francisco, CA",88500
+Acorn Health Systems,E0284,Engineering,Software Engineer,Senior,Remote (US),146500
+Acorn Health Systems,E0285,Sales,Account Executive,Senior,"San Francisco, CA",161500
+Acorn Health Systems,E0286,Engineering,Software Engineer,Senior,"Chicago, IL",155500
+Acorn Health Systems,E0287,Sales,Sales Development Rep,Mid,"Austin, TX",83500
+Acorn Health Systems,E0288,Sales,Account Executive,Mid,"Austin, TX",110500
+Acorn Health Systems,E0289,Engineering,Engineering Manager,Manager,"San Francisco, CA",224500
+Acorn Health Systems,E0290,Sales,Sales Development Rep,Mid,"San Francisco, CA",100500
+Acorn Health Systems,E0291,Engineering,Software Engineer,Mid,"Seattle, WA",160500
+Acorn Health Systems,E0292,Engineering,QA Engineer,Junior,"Seattle, WA",106000
+Acorn Health Systems,E0293,Finance,Financial Analyst,Senior,"Chicago, IL",143000
+Acorn Health Systems,E0294,Customer Support,Support Manager,Manager,"Atlanta, GA",87500
+Acorn Health Systems,E0295,Engineering,Engineering Manager,Senior Manager,"Chicago, IL",249000
+Acorn Health Systems,E0296,Sales,Sales Development Rep,Mid,"Austin, TX",98000
+Acorn Health Systems,E0297,Marketing,Marketing Manager,Manager,"Atlanta, GA",97500
+Acorn Health Systems,E0298,Engineering,Software Engineer,Mid,Remote (US),126500
+Acorn Health Systems,E0299,Product,Product Manager,Mid,Remote (US),132000
+Acorn Health Systems,E0300,Engineering,Software Engineer,Mid,"Seattle, WA",146000
+Acorn Health Systems,E0301,Engineering,Data Engineer,Senior,"San Francisco, CA",219500
+Acorn Health Systems,E0302,Sales,Account Executive,Mid,"Chicago, IL",107000
+Acorn Health Systems,E0303,Sales,Sales Development Rep,Mid,"Austin, TX",88500
+Acorn Health Systems,E0304,Product,Product Manager,Associate,"Austin, TX",97000
+Acorn Health Systems,E0305,Marketing,Marketing Manager,Senior Manager,Remote (US),161000
+Acorn Health Systems,E0306,Operations,Program Manager,Mid,Remote (US),102000
+Acorn Health Systems,E0307,Sales,Account Executive,Senior,Remote (US),141000
+Acorn Health Systems,E0308,Customer Support,Support Manager,Manager,"Chicago, IL",100000
+Acorn Health Systems,E0309,Finance,Financial Analyst,Senior,"Seattle, WA",138500
+Acorn Health Systems,E0310,Engineering,Data Engineer,Mid,"Seattle, WA",153500
+Acorn Health Systems,E0311,Customer Support,Support Specialist,Junior,"Seattle, WA",60500
+Acorn Health Systems,E0312,Engineering,QA Engineer,Senior,Remote (US),163000
+Acorn Health Systems,E0313,Engineering,QA Engineer,Mid,"San Francisco, CA",163000
+Acorn Health Systems,E0314,Operations,Program Manager,Senior,Remote (US),146000
+Acorn Health Systems,E0315,Finance,Accountant,Mid,"Atlanta, GA",106500
+Acorn Health Systems,E0316,Product,UX Researcher,Mid,"Chicago, IL",119000
+Acorn Health Systems,E0317,Customer Support,Support Specialist,Senior,"San Francisco, CA",115000
+Acorn Health Systems,E0318,Engineering,Engineering Manager,Senior Manager,"Atlanta, GA",215500
+Acorn Health Systems,E0319,Engineering,QA Engineer,Junior,"San Francisco, CA",100000
+Acorn Health Systems,E0320,Engineering,Data Engineer,Senior,"Atlanta, GA",157500
